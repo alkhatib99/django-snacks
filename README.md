@@ -19,6 +19,3 @@ Author: Abedalqader Alkhatib
 Create a Django project with 2 pages `Home`, and `About` simple pages, and create URLs/views as needed Should be built the “Django way” aka match the structure of the in-class demo
 
 ---
-
-## pull Request
-['PR']()
